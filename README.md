@@ -9,7 +9,7 @@
 		-->
         </style>
 	</head>
-  <body>
+  <body><h1><center>沙雕日报</center></h1>
 	  <div class="red">我们尊敬的俞天泽大佬编了沙雕日报,因可能被老师发现,俞天泽大佬就不在学校大批次公布了,有兴趣的人可以在这里观看哦!</div>
 <div>第一期:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-The-first-issue-of-sand-carving-daily/"><span class="purple">前往</span></a></button></div>
 	  <div>第二期:<button title="hello"><a href="https://zhouningyuan1234.github.io/yyy-The-second-issue-of-sand-carving-daily/"><span class="purple">前往</span></a></button></div>
